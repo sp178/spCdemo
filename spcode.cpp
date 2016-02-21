@@ -2,7 +2,7 @@
 #include<cstring>
 spcode::spcode()
 {
-    //change data
+    //change data heh
     m_step_type= NULL;
     m_driver = NULL;
 };
