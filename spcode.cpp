@@ -5,6 +5,9 @@ spcode::spcode()
     //change data heh
     m_step_type= NULL;
     m_driver = NULL;
+    //sp178 git test
+    int sp178  = 0;
+    sp178 = 8;
 };
 int spcode::RunFunction (double t, const double* y, double* dydt, void *params)
 {
