@@ -4,6 +4,7 @@ spcode::spcode()
 {
     m_step_type= NULL;
     m_driver = NULL;
+    //test change
 };
 int spcode::RunFunction (double t, const double* y, double* dydt, void *params)
 {
