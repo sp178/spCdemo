@@ -1,6 +1,7 @@
 #ifndef SPCMODEL_H
 #define SPCMODEL_H
 
+
 class spCmodel
 {
 public:
